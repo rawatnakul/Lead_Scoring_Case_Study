@@ -9,7 +9,7 @@ This will help the company to increase the conversion rate as the sales team wil
 The company ants us to build a model, wherein the customer with high lead score have high chances of conversion and vice versa.
 The CEO has in particular given a target of 80%.
 # Problem approach
-###Reading and understanding data###
+Reading and understanding data<br/>
 Data preprocessing
 EDA
 Creation of dummy variables
