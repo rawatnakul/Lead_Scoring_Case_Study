@@ -10,11 +10,11 @@ The company ants us to build a model, wherein the customer with high lead score 
 The CEO has in particular given a target of 80%.
 # Problem approach
 Reading and understanding data<br/>
-Data preprocessing
-EDA
-Creation of dummy variables
-Splitting the data
-Feature scaling
-Model building
-Model evaluation
-Making predictions on test data set
+Data preprocessing<br/>
+EDA<br/>
+Creation of dummy variables<br/>
+Splitting the data<br/>
+Feature scaling<br/>
+Model building<br/>
+Model evaluation<br/>
+Making predictions on test data set<br/>
