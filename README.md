@@ -9,12 +9,12 @@ This will help the company to increase the conversion rate as the sales team wil
 The company ants us to build a model, wherein the customer with high lead score have high chances of conversion and vice versa.
 The CEO has in particular given a target of 80%.
 # Problem approach
-Reading and understanding data<br/>
-Data preprocessing<br/>
-EDA<br/>
-Creation of dummy variables<br/>
-Splitting the data<br/>
-Feature scaling<br/>
-Model building<br/>
-Model evaluation<br/>
-Making predictions on test data set<br/>
+1. Reading and understanding data<br/>
+2. Data preprocessing<br/>
+3. EDA<br/>
+4. Creation of dummy variables<br/>
+5. Splitting the data<br/>
+6. Feature scaling<br/>
+7. Model building<br/>
+8. Model evaluation<br/>
+9. Making predictions on test data set<br/>
